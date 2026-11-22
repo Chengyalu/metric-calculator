@@ -1,4 +1,4 @@
-Standalone Metric Calculator - a-CDI / a-CFI
+Metric Calculator - a-CDI / a-CFI
 Windows 64-bit
 
 STARTING THE APPLICATION
